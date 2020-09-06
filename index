@@ -1,8 +1,16 @@
-echo "# the8thwaste" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M master
-git remote add origin https://github.com/the8thwaste/the8thwaste.git
-git push -u origin master
+<html>
+<head>
+<!--  myfirst.html -->
+
+<title>Page Under Construction</title>
+<head>
+
+<body>
+
+<h1>Constructing Page As A Project</h1>
+
+<p>inaugural web page</p>
+
+</body>
+</html>
                 
